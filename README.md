@@ -1,11 +1,11 @@
 # 📄 Template de Documentação de Requisitos
 
-Este repositório contém um modelo padrão de documentação de requisitos, ideal para projetos de software ou iniciativas de melhoria interna.
+Este repositório contém todas as documentações de requisitos já criadas por este usuário para projetos de software ou iniciativas de melhoria interna.
 
 ## 📁 Estrutura
 
-- `template-docx/`: versão original em Word.
-- `template-md/`: versão em Markdown (opcional para uso em GitHub, GitLab, Notion etc.).
+- `Padrao/`: versão padrão original em Word.
+- `Projeto X/`: Versão especifica por projeto.
 
 ## 📌 Seções Incluídas
 
@@ -24,4 +24,3 @@ Este repositório contém um modelo padrão de documentação de requisitos, ide
 1. Faça o download ou clone este repositório.
 2. Edite o documento conforme o projeto.
 3. Versione e documente as alterações conforme necessário.
-
